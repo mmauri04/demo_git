@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+		<link rel="stylesheet" href="mariocv1.css" />
+		<link rel="stylesheet" href="mariocv1_ptit.css" media="screen and (max-width: 900px" />
+		<title>Mario CV</title>
+	</head>
+
+	<body>
+		<div id="bloc_page">
+			<!-- decoration de gauche -->
+			<div id="liseret">
+			</div>
+		
+			<section id="mmauri">
+				<!-- header de mon CV -->
+				<header>
+					<div id="titre">
+						<h1>Mario MAURICETTE</h1>
+						<p id="intro">Passionné par l'éducation dès mon plus jeune âge.<br />
+						J'ai donné des cours particuliers, puis j'ai passé mon diplôme en Chimie à UEH/ENS de Port-au-Prince</p> 
+					</div>
+					
+					<div id="photo">
+						<figure>
+							<a href="images/m_m.jpg"><img id="profil" src="images/marioenmin.jpg" alt="m_m" /></a>
+						</figure>
+					</div>
+				</header>
+			
+			<!-- section experiences -->
+			<section id="experiences">
+				<h2>Mon expérience</h2>
+				<ul>
+					<li><span class="gras">2008-2009</span> Professeur au Collège en Haïti</li>
+					<li><span class="gras">2010-2011</span> Stage à l'ENI de Poitiers, en Chimie</li>
+					<li><span class="gras">2011-2012<span> Stage aux Lycée et Collège en France en vue de la préparation CAPES</li>
+				</ul>
+			</section>
+				
+			<!-- section competences -->	
+			<section id="competences">	
+				<h2>Mes compétences</h2>
+				<ul>
+					<li><span class="gras">Informatique : Apprenez à écrire votre site web avec HTML5 & CSS3</span>
+					<a href="http://openclassrooms.com/course-certificates/69110379">Certificat n° 69110379</a></li>
+					<li><span class="gras">Comprendre le Web,</span> <a href="http://openclassrooms.com/course-certificates/37641985">Certificat n° 37641985</a></li>
+					<li><span class="gras">Apprenez à naviguer en sécurité sur internet</span><br />
+					<a href="http://openclassrooms.com/course-certificates/56554442">Certificat n° 56554442</a>
+					<li><span class="gras">Chimie</span></li>
+					<li><span class="gras">Biologie</span></li>
+				</ul>
+			</section>
+			
+			<!-- section formations -->
+			<section id="formations">	
+				<h2>Ma formation</h2>
+				<ul>
+					<li><span class="gras">2010-2011: Master 1- Université de Poitiers</span></li>
+					<li><span class="gras">2005-2009 : </span>Licence en Chimie, Université d'Etat d'HAÏTI</li>
+				</ul>
+			</section>
+			</section>	
+		</div>
+	</body>
+</html>
