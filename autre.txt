@@ -1,3 +1,0 @@
-Ceci est un fichier txt
-Texte de grande qualité
-je l'ai modifié à partir de Github...
